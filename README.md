@@ -31,7 +31,7 @@ Cada módulo do curso é contido em sua própria pasta. Dentro de cada pasta, vo
 
 ## Licença
 
-Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/thiarly/javascript-hashtag/blob/main/LICENSE) para detalhes.
 
 ## Contato
 
